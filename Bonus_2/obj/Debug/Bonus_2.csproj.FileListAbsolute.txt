@@ -1,0 +1,6 @@
+C:\Users\tdrie\Desktop\Bonus\Bonus_2\Bonus_2\bin\Debug\Bonus_2.exe.config
+C:\Users\tdrie\Desktop\Bonus\Bonus_2\Bonus_2\bin\Debug\Bonus_2.exe
+C:\Users\tdrie\Desktop\Bonus\Bonus_2\Bonus_2\bin\Debug\Bonus_2.pdb
+C:\Users\tdrie\Desktop\Bonus\Bonus_2\Bonus_2\obj\Debug\Bonus_2.csprojResolveAssemblyReference.cache
+C:\Users\tdrie\Desktop\Bonus\Bonus_2\Bonus_2\obj\Debug\Bonus_2.exe
+C:\Users\tdrie\Desktop\Bonus\Bonus_2\Bonus_2\obj\Debug\Bonus_2.pdb
